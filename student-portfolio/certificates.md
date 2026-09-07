@@ -18,8 +18,8 @@
 
 ---
 
-Image (screenshot) reference (not yet uploaded):
+For full details about the Slingshot Challenge, see the official program page:
 
-- Proposed image path: `student-portfolio/certificates/certificate-2026-national-geographic.png`
+- Slingshot Challenge — National Geographic: https://www.nationalgeographic.org/projects/slingshot-challenge/
 
-I added this certificate entry to the student portfolio collection. If you'd like I can also upload the screenshot image into the repository at the proposed path — reply "Upload image" and I'll add it in a follow-up commit.
+(Per your instruction, the screenshot image was not uploaded to the repository.)
