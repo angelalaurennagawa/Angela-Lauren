@@ -1,6 +1,6 @@
 # Nagawa Angela Lauren
 
-Welcome to my student portfolio! I'm a student at Mt. St. Mary's College, Namagunga, passionate about science, academics, and personal development.
+Welcome to my student portfolio! I'm a student passionate about science, academics, and personal development.
 
 ---
 
@@ -20,14 +20,6 @@ This document contains the complete list of participants, school delegations, an
 - **School:** Mt. St. Mary's College, Namagunga
 - **Delegation:** Ravenclaw (Science Olympiad)
 - **Interests:** Science, Technology, Academic Excellence
-
----
-
-## 🔗 Connect With Me
-
-- **GitHub:** [@angelalaurennagawa](https://github.com/angelalaurennagawa)
-- **Email:** [Your email here]
-- **LinkedIn:** [Your LinkedIn profile]
 
 ---
 
